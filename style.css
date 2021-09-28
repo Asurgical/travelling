@@ -1,0 +1,134 @@
+*{
+    box-sizing:border-box;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+.ach1{
+    width: 10%;
+    margin: 20px;
+    padding: 0;
+    border: 0;
+    
+    color: aliceblue;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #90AACB;
+
+}
+.nav1{
+    background-color: #90AACB;
+    text-align: center;
+}
+
+.ac{
+    display: inline-block;
+    width: 35%;
+    font-size: 50px;
+    text-align: left;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background-color: #90AACB;
+}
+nav img{
+    width: 60px;
+    height:70px;
+    padding-top: 20px;
+
+    
+}
+.div1{
+    background-image:url(R.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    padding: 25%;
+    text-align: center;
+   
+    
+}
+.color{
+    color: white;
+    line-height: 50px;
+}
+.in{
+    display: inline;
+    border-style: none;
+}
+.div2{background-color: #DBD0C0;
+    
+    text-align: center;
+}
+
+.div3{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    border-left: 2px solid black;
+    
+    margin: auto;
+
+    
+}
+.height{
+    
+}
+
+.div4{
+    
+    background-image: url(download.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.div4 h1{
+    text-decoration: dotted;
+}
+
+.div5{
+    width: 31%;
+    height: 180px;
+    display: inline-block;
+    text-align: left;
+    color: aliceblue;
+    
+}
+.swift1{
+    position: relative;
+    bottom: 23px;
+}
+.swift2{
+    position: relative;
+    bottom: 23px;
+}
+.div6 nav {
+    padding-top: 20px;
+     background-color: #90AACB;
+}
+.div6 nav a{
+    width: 23%;
+    padding: 8px;
+    text-align: center;
+text-decoration: none;
+}
+.div7{
+    padding-top: 20px;
+    background-color: #90AACB;
+}
+
+
+.div7 a{
+    text-decoration: none;
+    width: 50%;
+    padding: 15px;
+}
+.img1{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    
+}
+
+
